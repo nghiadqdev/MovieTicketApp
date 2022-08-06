@@ -1,0 +1,7 @@
+export const SocketConfig = {
+    ORDER_INSIDE_NEW: "ORDER_INSIDE_NEW", // chuyen thuong 1 tai xe 
+    ORDER_OUTSIDE_NEW: "ORDER_OUTSIDE_NEW", // chuyen ngoài nhieu tai xe 
+    PAYMENT_EVALLET_ORDER: "PAYMENT_EVALLET_ORDER",
+    PAYMENT_CUSTOMER_ORDER: "PAYMENT_CUSTOMER_ORDER",
+    ADMIN_APPROVE: "ADMIN_APPROVE",
+}
